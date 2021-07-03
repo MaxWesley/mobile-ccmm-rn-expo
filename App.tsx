@@ -5,6 +5,9 @@ import { StatusBar } from 'react-native';
 import { Background } from './src/components/Background';
 
 import { Home } from './src/screens/Home';
+
+import {Footer } from './src/components/Footer';
+
 export default function App() {
   return (
     <Background>
@@ -14,6 +17,7 @@ export default function App() {
         translucent
       />
       <Home />
+      <Footer />
     </Background>
   );
 }
