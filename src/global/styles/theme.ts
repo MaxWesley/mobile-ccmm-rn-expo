@@ -17,6 +17,13 @@ export const theme = {
         borderBottom: '#70707011',
         labelLight: '#70707033',
         labelBold: '#9E9E9E',
+        
+        
+        cardBackground: '#393E46',
+        imageBackground: '#D1D1D1',
+        textName: '#D1D1D1',
+        textDescription: '#70707088',
+
 
         overlay: 'rgba(0,0,0,0.7)',
         highlight: '#ABB1CC',
