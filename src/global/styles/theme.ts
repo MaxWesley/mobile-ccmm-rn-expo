@@ -14,6 +14,9 @@ export const theme = {
 
         background: '#232931',
         inputBackground: '#393E46',
+        borderBottom: '#70707011',
+        labelLight: '#70707033',
+        labelBold: '#9E9E9E',
 
         overlay: 'rgba(0,0,0,0.7)',
         highlight: '#ABB1CC',
