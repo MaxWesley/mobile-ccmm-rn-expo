@@ -4,9 +4,13 @@ import { View } from "react-native";
 
 import { Header } from '../../components/Header';
 
+import { styles } from './styles';
+
 export function Home() {
+    const { container } = styles;
+
     return(
-        <View>
+        <View style={container}>
             <Header />
         </View>
     )
